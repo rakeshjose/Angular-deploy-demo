@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  navBarbackgroundColor: 'white'
+  navBarbackgroundColor: 'purple'
 };
